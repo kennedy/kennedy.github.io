@@ -36,7 +36,7 @@ social_media:
   # instagram: your_username
   keybase: kennedy
   # linkedin: your_username
-  # mastodon: your_username
+  mastodon: social.lol/@kennedy
   # medium: your_username
   # stackoverflow: your_user_id
   # telegram: your_username
@@ -50,7 +50,3 @@ topics:
   - name: Python
     web_url: https://github.com/topics/python
     image_url: https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png
-
-  - name: .NET Core
-    web_url: https://github.com/topics/aspnet
-    image_url: https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aspnet/aspnet.png
